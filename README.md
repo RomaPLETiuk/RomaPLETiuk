@@ -38,6 +38,7 @@ In addition to my core skills, I also have experience with:
 Feel free to explore my repositories and join me on this exciting coding adventure!
 
 # 📊 GitHub Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomaPLETiu&theme=default&card_width=500)](https://git.io/streak-stats)
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=RomaPLETiuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false"></td>
