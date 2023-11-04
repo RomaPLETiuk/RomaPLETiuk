@@ -12,12 +12,14 @@
 
 💡 Here are the key skills that I've mastered:
 
-- C#
-- .NET
-- WPF
+- C#/.NET 
+- WPF/WinForms
+- Xamarin
 - ASP.NET Core
 - Entity Framework
 - LINQ
+- SQL/T-SQL
+- SQL Server/PostgreSQL
 
 ## Additional Skills
 
@@ -27,6 +29,7 @@ In addition to my core skills, I also have experience with:
 - Python
 - C/C++
 - PHP
+- R
 
 ## What You'll Find Here
 
