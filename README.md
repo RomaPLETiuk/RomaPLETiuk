@@ -35,5 +35,12 @@ In addition to my core skills, I also have experience with:
 📁 My repositories are a reflection of my coding journey. You'll find projects showcasing my proficiency in C# and its ecosystem. Whether it's crafting efficient algorithms, architecting software solutions, each repository tells a unique story of growth and learning.
 
 
-
 Feel free to explore my repositories and join me on this exciting coding adventure!
+
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=RomaPLETiuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaPLETiuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></td>
+  </tr>
+</table>
