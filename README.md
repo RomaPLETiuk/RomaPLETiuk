@@ -1,14 +1,10 @@
-[![](https://visitcount.itsvg.in/api?id=RomaPLETiuk&icon=5&color=3)](https://visitcount.itsvg.in) 
-
-
 # C# Developer
 
-## Introduction
-
-👋 Greetings! Welcome to my GitHub profile. I'm a dedicated student pursuing a degree in Software Engineering at NUBiP. With a passion for coding and a hunger for knowledge, I'm on a journey to become a skilled software engineer and make a meaningful impact in the world of technology. I'm a passionate C# developer with a keen interest in crafting efficient and elegant solutions.
+[![](https://visitcount.itsvg.in/api?id=RomaPLETiuk&icon=5&color=3)](https://visitcount.itsvg.in) 
 
 ## About Me
 
+👋 Greetings! Welcome to my GitHub profile. I'm a dedicated student pursuing a degree in Software Engineering at NUBiP. With a passion for coding and a hunger for knowledge, I'm on a journey to become a skilled software engineer and make a meaningful impact in the world of technology. I'm a passionate C# developer with a keen interest in crafting efficient and elegant solutions.
 🚀 I thrive in the world of .NET and C#. My journey as a developer has led me through various projects, from building desktop applications using Windows Presentation Foundation (WPF) to creating dynamic web applications with ASP.NET Core. My curiosity drives me to continuously explore new technologies and best practices to refine my skills.
 
 ## Key Skills
