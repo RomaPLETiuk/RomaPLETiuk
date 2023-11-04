@@ -1,11 +1,15 @@
-# C# Developer
-
 [![](https://visitcount.itsvg.in/api?id=RomaPLETiuk&icon=5&color=3)](https://visitcount.itsvg.in) 
 
-## About Me
+# C#/.NET Developer
 
-👋 Greetings! Welcome to my GitHub profile. I'm a dedicated student pursuing a degree in Software Engineering at NUBiP. With a passion for coding and a hunger for knowledge, I'm on a journey to become a skilled software engineer and make a meaningful impact in the world of technology. I'm a passionate C# developer with a keen interest in crafting efficient and elegant solutions.
-🚀 I thrive in the world of .NET and C#. My journey as a developer has led me through various projects, from building desktop applications using Windows Presentation Foundation (WPF) to creating dynamic web applications with ASP.NET Core. My curiosity drives me to continuously explore new technologies and best practices to refine my skills.
+## :woman_technologist: About Me
+I'm a programmer, and I do clickety-click.
+
+- 👋 I'm a Software Engineering student at NUBiP, passionate about coding and eager to make a meaningful impact in the tech world.
+
+- 🚀 I specialize in C# and .NET, with experience in projects ranging from WPF desktop applications to dynamic web apps using ASP.NET Core.
+
+- 💡 I'm constantly exploring new technologies and best practices to refine my development skills.
 
 ## Key Skills
 
@@ -34,11 +38,9 @@ In addition to my core skills, I also have experience with:
 
 📁 My repositories are a reflection of my coding journey. You'll find projects showcasing my proficiency in C# and its ecosystem. Whether it's crafting efficient algorithms, architecting software solutions, each repository tells a unique story of growth and learning.
 
-
 Feel free to explore my repositories and join me on this exciting coding adventure!
 
-# 📊 GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomaPLETiu&theme=default&card_width=500)](https://git.io/streak-stats)
+# 📊 My Stats:
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=RomaPLETiuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false"></td>
