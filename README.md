@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=RomaPLETiuk&icon=5&color=3)](https://visitcount.itsvg.in) 
-[![wakatime](https://wakatime.com/badge/user/77ac138e-44ed-491a-94ce-abc737d53369.svg)](https://wakatime.com/@RomaPLETiuk)
+
 
 # C# Developer
 
