@@ -24,10 +24,10 @@ I'm a programmer, and I do clickety-click.
   <img src="https://seeklogo.com/images/A/arduino-ide-logo-8C562047FD-seeklogo.com.png" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/a/a5/Blender.svg/2048px-Blender.svg.png" title="blender" **alt="blender" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap"width="40"height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/C/c-language-logo-CE0F92E683-seeklogo.com.png" title="C" **alt="C" width="40" height="40"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaOWflXXmjw_L9j-JX338XnZMwrq06X50GcqbTMUOxLijuJM-SIsC2BXTvT7bwmJDRnNs&usqp=CAU" title="github" **alt="github" width="40" height="40"/>&nbsp;   
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" title="github" **alt="github" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" **alt="kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" **alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>&nbsp;
