@@ -82,6 +82,8 @@ I'm a programmer, and I do clickety-click.
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%23009AD6.svg?style=for-the-badge&logo=dot-net&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-%230072C6.svg?style=for-the-badge&logo=wpf&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23479A61.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%230072C6.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
