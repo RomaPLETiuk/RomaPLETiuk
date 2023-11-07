@@ -43,6 +43,8 @@ I'm a programmer, and I do clickety-click.
 </div>
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white)
+
 
 
 # 📊 My Stats:
