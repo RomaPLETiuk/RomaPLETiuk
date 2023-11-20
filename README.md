@@ -109,3 +109,21 @@ I'm a programmer, and I do clickety-click.
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaPLETiuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></td>
   </tr>
 </table>
+
+# GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=RomaPLETiuk&theme=jolly&date_format=j%20M%5B%20Y%5D)
+
+<!--
+## Latest Tweet 🐦  
+[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+Twitter API pricing changes Killed this tool sadly
+-->
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/RomaPLETiuk/RomaPLETiuk/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+
