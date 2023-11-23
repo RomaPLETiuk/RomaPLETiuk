@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 I'm a programmer, and I do clickety-click.
 
-- 👋 I'm a Software Engineering student at NUBiP, passionate about coding and eager to make a meaningful impact in the tech world.
+- 👋 I'm a Software Engineering student at IT faculty, passionate about coding and eager to make a meaningful impact in the tech world.
 
 - 🚀 I specialize in C# and .NET, with experience in projects ranging from WPF desktop applications to dynamic web apps using ASP.NET Core.
 
