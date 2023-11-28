@@ -105,7 +105,7 @@ I'm a programmer, and I do clickety-click.
 # 📊 My Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=RomaPLETiuk&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=RomaPLETiuk&theme=jolly&hide_border=false&include_all_commits=false&count_private=false"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaPLETiuk&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact"></td>
   </tr>
 </table>
